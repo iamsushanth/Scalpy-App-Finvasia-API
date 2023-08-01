@@ -1,0 +1,18 @@
+Installation Guide:
+
+Step 1:
+
+Locate the batch file (setup.bat) in your file explorer.
+Right-click on the batch file.
+From the context menu, select "Run as administrator."
+
+Step 2:
+
+After running the setup.bat file, the latest version of the .exe file will be downloaded to the current directory.
+Locate the downloaded .exe file (niftyscalper.exe) in the same directory.
+
+Double-click on the niftyscalper.exe file to install the application.
+
+Note: It's important to run the setup.bat file with administrative privileges to ensure smooth installation and
+avoid any permission-related issues. Always download batch files and executable files from trusted sources to
+ensure the security of your system.

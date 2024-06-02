@@ -1,7 +1,9 @@
 # NiftyScalper
 NiftyScalper - Scalping Tool using Finvasia Shoonya API for Nifty and BankNifty
 
-![Scalper](https://github.com/iamsushanth/NiftyScalper-Finvasia-API/blob/main/Pro v4.0.PNG)
+![Scalper](https://github.com/iamsushanth/NiftyScalper-Finvasia-API/blob/main/Pro%20v4.0.PNG)
+
+
 
 ![Scalper](https://github.com/iamsushanth/NiftyScalper-Finvasia-API/blob/main/v2.8.PNG)
 

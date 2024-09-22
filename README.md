@@ -1,5 +1,5 @@
 # Scalpy App
-NiftyScalper - Scalping Tool using Finvasia Shoonya API for Nifty and BankNifty
+Scalpy App - Scalping Tool using Finvasia Shoonya API for Nifty and BankNifty
 
 ![Scalper](https://github.com/iamsushanth/Scalpy-App-Finvasia-API/blob/main/v4.3.PNG?raw=true)
 
